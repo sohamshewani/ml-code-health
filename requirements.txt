@@ -1,0 +1,8 @@
+click
+rich
+pytest
+pytest-cov
+coverage
+pyinstrument
+flake8
+black

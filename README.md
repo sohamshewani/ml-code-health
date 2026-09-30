@@ -1,0 +1,1 @@
+The ml-code-health repository provides a command-line interface for analyzing the health of machine learning pipeline scripts. It includes static code analysis, dynamic profiling, and code coverage reporting. The tool generates a comprehensive report that helps in maintaining and optimizing machine learning workflows.
